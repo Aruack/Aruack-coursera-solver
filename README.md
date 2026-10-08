@@ -165,33 +165,33 @@ API keys are stored in `chrome.storage.local` in your Chrome profile and are sen
 
 ***
 
-### 👥 Creators & Contributors
+<div align="center">
 
-<table>
+## 👥 Creators & Contributors
+
+<table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="160">
       <a href="https://github.com/Aruack">
-        <img src="https://github.com/Aruack.png" width="90" height="90" alt="Aruack (Aryan)"/>
+        <img src="https://github.com/Aruack.png" width="100" height="100" style="border-radius: 50%;" alt="Aruack (Aryan)"/>
         <br />
         <sub><b>Aruack (Aryan)</b></sub>
       </a>
+      <br />
+      <sub>Creator &amp; Project Lead</sub>
     </td>
-    <td align="center">
+    <td align="center" width="160">
       <a href="https://github.com/manishdecoded">
-        <img src="https://github.com/manishdecoded.png" width="90" height="90" alt="Manish"/>
+        <img src="https://github.com/manishdecoded.png" width="100" height="100" style="border-radius: 50%;" alt="Manish"/>
         <br />
         <sub><b>Manish</b></sub>
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <sub>Creator & Project Lead</sub>
-    </td>
-    <td align="center">
+      <br />
       <sub>Contributor</sub>
     </td>
   </tr>
 </table>
 
-**Thank you to our contributors for their valuable work and collaboration.**
+<p>Thank you to our contributors for their valuable work and collaboration.</p>
+
+</div>
