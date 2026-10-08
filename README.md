@@ -167,6 +167,31 @@ API keys are stored in `chrome.storage.local` in your Chrome profile and are sen
 
 ### 👥 Creators & Contributors
 
-* [Aruack (Aryan)](https://github.com/Aruack)
-* [Manish](https://github.com/manishdecoded)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Aruack">
+        <img src="https://github.com/Aruack.png" width="90" height="90" alt="Aruack (Aryan)"/>
+        <br />
+        <sub><b>Aruack (Aryan)</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/manishdecoded">
+        <img src="https://github.com/manishdecoded.png" width="90" height="90" alt="Manish"/>
+        <br />
+        <sub><b>Manish</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub>Creator & Project Lead</sub>
+    </td>
+    <td align="center">
+      <sub>Contributor</sub>
+    </td>
+  </tr>
+</table>
 
+**Thank you to our contributors for their valuable work and collaboration.**
