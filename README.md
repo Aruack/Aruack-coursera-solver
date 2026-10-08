@@ -15,7 +15,6 @@
 
 ![Aruack Coursera Solver UI](assets/image.png)
 
-🎬 **[Watch the Demo on YouTube](https://www.youtube.com/watch?v=a060UX8dlHE)**
 
 A sleek, lightweight Chrome Extension to automate and help you navigate your Coursera courses with ease. 
 
